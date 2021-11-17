@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2a81d170-0d13-e844-78bf-2f7b88423c12",
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Ethics for Engineers",
+  "course_description": "This seminar examines the problems of ethics in an engineering context by investigating case studies informed by foundational thinkers in ethics.\n",
+  "department_numbers": [
+    "10",
+    "1",
+    "2",
+    "22",
+    "6",
+    "16"
+  ],
+  "extra_course_numbers": "1.082,2.900,22.014,6.904,16.676",
+  "primary_course_number": "10.01",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
